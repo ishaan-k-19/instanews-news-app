@@ -1,4 +1,3 @@
-I'll create a comprehensive README for the InstaNews React Application:
 
 # 📰 InstaNews - News Aggregation Web Application
 
