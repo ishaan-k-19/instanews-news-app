@@ -36,8 +36,7 @@ InstaNews is a modern React-based news application that provides real-time news 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://your-repo-url/instanews.git
-cd instanews
+git clone https://github.com/ishaan-k-19/instanews-news-app.git
 ```
 
 2. Install dependencies
@@ -82,8 +81,8 @@ npm start
 Distributed under the MIT License.
 
 ## 🔗 Contact
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/instanews]
+Ishaan Kashyap - ishaank.1912@gmail.com
+Project Link: [https://github.com/ishaan-k-19/instanews-news-app]
 
 ## 🙏 Acknowledgements
 - React.js
